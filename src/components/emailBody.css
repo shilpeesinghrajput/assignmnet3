@@ -1,0 +1,31 @@
+article{
+    width: 100% ;
+    height: fit-content;
+    border: 1px solid #CFD2DC;
+    background-color: #F4F5F9;
+    padding: 10px;
+    border-radius: 15px;
+    color: #636363;
+    
+}
+article p {
+    padding:30px
+}
+
+.avatar div{
+    width:52px;
+    height: 52px;
+     border-radius:50%;background:#E54065 ;
+ 
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: white;
+     font-weight: 600;
+ }
+
+ .header{
+    display: flex
+ }
+ 
+ 

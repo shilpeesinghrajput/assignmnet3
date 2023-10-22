@@ -1,0 +1,22 @@
+.card{
+    display: flex;
+    width: 100%;
+    border: 1px solid #CFD2DC;
+    background-color: #F4F5F9;
+    padding: 10px;
+    border-radius: 15px;
+    color: #636363;
+}
+
+.avatar div{
+   width:42px;
+   height: 42px;
+    border-radius:50%;background:#E54065 ;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+}
+
